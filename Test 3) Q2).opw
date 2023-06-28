@@ -1,0 +1,21 @@
+[RESOURCES]
+Check in counter 5
+Check in counter 4
+Check in counter 3
+Check in counter 2
+Check in counter 1
+waiting room 1
+Travel time 1
+[VARIABLES]
+Exit Gate.NumberOut
+Checkin Counter 5.NumberOut
+Checkin Counter 4.NumberOut
+Checkin Counter 3.NumberOut
+Checkin Counter 2.NumberOut
+Checkin Counter 1.NumberOut
+Checkin Counter 5.NumberIn
+Checkin Counter 4.NumberIn
+Checkin Counter 3.NumberIn
+Checkin Counter 2.NumberIn
+Checkin Counter 1.NumberIn
+Main Entrance Door.NumberOut

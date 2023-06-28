@@ -1,0 +1,42 @@
+[RESOURCES]
+Ordering counter 5
+Ordering counter 4
+Ordering counter 3
+Ordering counter 2
+Ordering counter 1
+Picking up food
+Payment counter 3
+Payment counter 2
+Payment counter 1
+Payment counter 5
+Payment counter 4
+Picking up food 2
+[VARIABLES]
+Travel time order to payment.NumberIn
+Pick up food 2.NumberOut
+Pick up food 2.NumberIn
+By car.NumberOut
+Dining in.NumberOut
+Server 1 payment.NumberOut
+Dispose 2.NumberOut
+Server 1 payment.NumberIn
+Batch 2.NumberOut
+Travel time payment to pickup.NumberIn
+Going to pickup food.NumberOut False
+Travel time payment to pickup.NumberOut
+Going to pickup food.NumberOut True
+Pick up food.NumberIn
+Dispose 1.NumberOut
+Server 1.NumberOut
+Travel time pickup to exit.NumberOut
+Travel time pickup to exit.NumberIn
+Dining in.NumberIn
+Server 1.NumberIn
+By car 2.NumberOut
+Separate 2.NumberOut Orig
+Pick up food.NumberOut
+Walkins.NumberOut
+SIngle Bus.NumberOut
+Travel time order to payment.NumberOut
+Travel time entry to order.NumberOut
+Travel time entry to order.NumberIn

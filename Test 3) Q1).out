@@ -1,0 +1,128 @@
+SIMAN Run Controller.
+
+0.010028559 Hours>SIMAN Run Controller.
+
+424.8494 Hours>
+                                      ARENA Simulation Results
+                                   Nirav Mahnot - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date :11/21/2022
+Analyst: Nirav Mahnot                                                Model revision date:11/21/2022
+
+Replication ended at time      : 424.8494 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Passengers.VATime                               --         --         --         --          0
+Passengers.NVATime                              --         --         --         --          0
+Passengers.WaitTime                             --         --         --         --          0
+Passengers.TranTime                             --         --         --         --          0
+Passengers.OtherTime                            --         --         --         --          0
+Passengers.TotalTime                            --         --         --         --          0
+Customer.VATime                             .00735     (Corr)     .00000     .59724       7642    
+Customer.NVATime                            .00000     .00000     .00000     .00000       7642    
+Customer.WaitTime                            8.0622E-4 (Corr)     .00000     .28907       7642    
+Customer.TranTime                            2.0937E-4 (Corr)     .00000     .08000       7642    
+Customer.OtherTime                          .00000     .00000     .00000     .00000       7642    
+Customer.TotalTime                          .00837     (Corr)     .00000     .83816       7642    
+Batch 2.Queue.WaitingTime                   .00000     (Insuf)    .00000     .00000         20    
+Server 1.Queue.WaitingTime                  .01274     (Insuf)    .00000     .14009        140    
+Server 1 payment.Queue.WaitingTime          .02120     (Insuf)    .00000     .14845        140    
+Pick up food.Queue.WaitingTime               4.6944E-4 (Insuf)    .00000     .01859         72    
+Request 1.Queue.WaitingTime                 .00000     (Insuf)    .00000     .00000          1    
+Pick up food 2.Queue.WaitingTime            .00178     (Insuf)    .00000     .02118         68    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Passengers.WIP                               1.8830E-4 (Insuf)    .00000     1.0000     .00000    
+Customer.WIP                                .15056     (Insuf)    .00000     29.000     .00000    
+Ordering counter 5.NumberBusy               .00000     (Insuf)    .00000     .00000     .00000    
+Ordering counter 5.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Ordering counter 5.Utilization              .00000     (Insuf)    .00000     .00000     .00000    
+Ordering counter 4.NumberBusy               .00000     (Insuf)    .00000     .00000     .00000    
+Ordering counter 4.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Ordering counter 4.Utilization              .00000     (Insuf)    .00000     .00000     .00000    
+Ordering counter 3.NumberBusy               .00000     (Insuf)    .00000     .00000     .00000    
+Ordering counter 3.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Ordering counter 3.Utilization              .00000     (Insuf)    .00000     .00000     .00000    
+Ordering counter 2.NumberBusy               .00000     (Insuf)    .00000     .00000     .00000    
+Ordering counter 2.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Ordering counter 2.Utilization              .00000     (Insuf)    .00000     .00000     .00000    
+Ordering counter 1.NumberBusy               .00000     (Insuf)    .00000     .00000     .00000    
+Ordering counter 1.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Ordering counter 1.Utilization              .00000     (Insuf)    .00000     .00000     .00000    
+Picking up food.NumberBusy                  .00125     (Insuf)    .00000     1.0000     .00000    
+Picking up food.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Picking up food.Utilization                 .00125     (Insuf)    .00000     1.0000     .00000    
+Payment counter 3.NumberBusy                .00446     (Insuf)    .00000     1.0000     .00000    
+Payment counter 3.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Payment counter 3.Utilization               .00446     (Insuf)    .00000     1.0000     .00000    
+Payment counter 2.NumberBusy                .00455     (Insuf)    .00000     1.0000     .00000    
+Payment counter 2.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Payment counter 2.Utilization               .00455     (Insuf)    .00000     1.0000     .00000    
+Payment counter 1.NumberBusy                .00503     (Insuf)    .00000     1.0000     .00000    
+Payment counter 1.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Payment counter 1.Utilization               .00503     (Insuf)    .00000     1.0000     .00000    
+Payment counter 5.NumberBusy                .00493     (Insuf)    .00000     1.0000     .00000    
+Payment counter 5.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Payment counter 5.Utilization               .00493     (Insuf)    .00000     1.0000     .00000    
+Payment counter 4.NumberBusy                .00463     (Insuf)    .00000     1.0000     .00000    
+Payment counter 4.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Payment counter 4.Utilization               .00463     (Insuf)    .00000     1.0000     .00000    
+Picking up food 2.NumberBusy                .00129     (Insuf)    .00000     1.0000     .00000    
+Picking up food 2.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Picking up food 2.Utilization               .00129     (Insuf)    .00000     1.0000     .00000    
+Batch 2.Queue.NumberInQueue                 .00000     (Insuf)    .00000     20.000     .00000    
+Server 1.Queue.NumberInQueue                .00420     (Insuf)    .00000     14.000     .00000    
+Server 1 payment.Queue.NumberInQueue        .00699     (Insuf)    .00000     16.000     .00000    
+Pick up food.Queue.NumberInQueue             7.9557E-5 (Insuf)    .00000     1.0000     .00000    
+Request 1.Queue.NumberInQueue               .00000     (Insuf)    .00000     .00000     .00000    
+Pick up food 2.Queue.NumberInQueue           2.8460E-4 (Insuf)    .00000     2.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Passengers.NumberIn                         1.0000    
+Passengers.NumberOut                        1.0000    
+Customer.NumberIn                           7642.0    
+Customer.NumberOut                          7642.0    
+Ordering counter 5.NumberSeized             .00000    
+Ordering counter 5.ScheduledUtilization     .00000    
+Ordering counter 4.NumberSeized             .00000    
+Ordering counter 4.ScheduledUtilization     .00000    
+Ordering counter 3.NumberSeized             .00000    
+Ordering counter 3.ScheduledUtilization     .00000    
+Ordering counter 2.NumberSeized             .00000    
+Ordering counter 2.ScheduledUtilization     .00000    
+Ordering counter 1.NumberSeized             .00000    
+Ordering counter 1.ScheduledUtilization     .00000    
+Picking up food.NumberSeized                72.000    
+Picking up food.ScheduledUtilization        .00125    
+Payment counter 3.NumberSeized              55.000    
+Payment counter 3.ScheduledUtilization      .00446    
+Payment counter 2.NumberSeized              54.000    
+Payment counter 2.ScheduledUtilization      .00455    
+Payment counter 1.NumberSeized              59.000    
+Payment counter 1.ScheduledUtilization      .00503    
+Payment counter 5.NumberSeized              60.000    
+Payment counter 5.ScheduledUtilization      .00493    
+Payment counter 4.NumberSeized              52.000    
+Payment counter 4.ScheduledUtilization      .00463    
+Picking up food 2.NumberSeized              68.000    
+Picking up food 2.ScheduledUtilization      .00129    
+System.NumberOut                            7642.0    
+
+
+Simulation run time: 0.07 minutes.
+Simulation run complete.

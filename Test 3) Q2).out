@@ -1,0 +1,90 @@
+SIMAN Run Controller.
+
+0.067624543 Hours>
+                                      ARENA Simulation Results
+                                   Nirav Mahnot - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date :11/21/2022
+Analyst: Nirav Mahnot                                                Model revision date:11/21/2022
+
+Replication ended at time      : 16.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Passengers.VATime                           .11932     (Insuf)    .03051     .19614         99    
+Passengers.NVATime                          .00000     (Insuf)    .00000     .00000         99    
+Passengers.WaitTime                         .33174     (Insuf)    .00000     1.4153         99    
+Passengers.TranTime                         .02688     (Insuf)     2.6550E-4 .17639         99    
+Passengers.OtherTime                        .00000     (Insuf)    .00000     .00000         99    
+Passengers.TotalTime                        .47794     (Insuf)    .04697     1.4799         99    
+Checkin Counter 5.Queue.WaitingTime         .70416     (Insuf)    .00000     1.4153         29    
+Checkin Counter 4.Queue.WaitingTime         .12664     (Insuf)    .00000     .39925         18    
+Checkin Counter 3.Queue.WaitingTime         .30976     (Insuf)    .00000     .58276         20    
+Checkin Counter 2.Queue.WaitingTime         .12426     (Insuf)    .00000     .40639         17    
+Checkin Counter 1.Queue.WaitingTime         .12231     (Insuf)    .00000     .44457         15    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Passengers.WIP                              2.9572     (Insuf)    .00000     26.000     .00000    
+Check in counter 5.NumberBusy               .23451     (Insuf)    .00000     1.0000     .00000    
+Check in counter 5.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Check in counter 5.Utilization              .23451     (Insuf)    .00000     1.0000     .00000    
+Check in counter 4.NumberBusy               .12150     (Insuf)    .00000     1.0000     .00000    
+Check in counter 4.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Check in counter 4.Utilization              .12150     (Insuf)    .00000     1.0000     .00000    
+Check in counter 3.NumberBusy               .15267     (Insuf)    .00000     1.0000     .00000    
+Check in counter 3.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Check in counter 3.Utilization              .15267     (Insuf)    .00000     1.0000     .00000    
+Check in counter 2.NumberBusy               .11829     (Insuf)    .00000     1.0000     .00000    
+Check in counter 2.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Check in counter 2.Utilization              .11829     (Insuf)    .00000     1.0000     .00000    
+Check in counter 1.NumberBusy               .11132     (Insuf)    .00000     1.0000     .00000    
+Check in counter 1.NumberScheduled          1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Check in counter 1.Utilization              .11132     (Insuf)    .00000     1.0000     .00000    
+waiting room 1.NumberBusy                   .00000     (Insuf)    .00000     .00000     .00000    
+waiting room 1.NumberScheduled              1.0000     (Insuf)    1.0000     1.0000     1.0000    
+waiting room 1.Utilization                  .00000     (Insuf)    .00000     .00000     .00000    
+Travel time 1.NumberBusy                    .00000     (Insuf)    .00000     .00000     .00000    
+Travel time 1.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Travel time 1.Utilization                   .00000     (Insuf)    .00000     .00000     .00000    
+Checkin Counter 5.Queue.NumberInQueue       1.2762     (Insuf)    .00000     12.000     .00000    
+Checkin Counter 4.Queue.NumberInQueue       .14247     (Insuf)    .00000     3.0000     .00000    
+Checkin Counter 3.Queue.NumberInQueue       .38719     (Insuf)    .00000     5.0000     .00000    
+Checkin Counter 2.Queue.NumberInQueue       .13202     (Insuf)    .00000     4.0000     .00000    
+Checkin Counter 1.Queue.NumberInQueue       .11467     (Insuf)    .00000     4.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Passengers.NumberIn                         99.000    
+Passengers.NumberOut                        99.000    
+Check in counter 5.NumberSeized             29.000    
+Check in counter 5.ScheduledUtilization     .23451    
+Check in counter 4.NumberSeized             18.000    
+Check in counter 4.ScheduledUtilization     .12150    
+Check in counter 3.NumberSeized             20.000    
+Check in counter 3.ScheduledUtilization     .15267    
+Check in counter 2.NumberSeized             17.000    
+Check in counter 2.ScheduledUtilization     .11829    
+Check in counter 1.NumberSeized             15.000    
+Check in counter 1.ScheduledUtilization     .11132    
+waiting room 1.NumberSeized                 .00000    
+waiting room 1.ScheduledUtilization         .00000    
+Travel time 1.NumberSeized                  .00000    
+Travel time 1.ScheduledUtilization          .00000    
+System.NumberOut                            99.000    
+
+
+Simulation run time: 0.15 minutes.
+Simulation run complete.
